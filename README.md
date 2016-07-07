@@ -1,1 +1,1 @@
-# http://ChickenApronsRUS.github.io/test-static-site
+# http://fluffylayers.github.io/redirect
